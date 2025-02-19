@@ -1,0 +1,7 @@
+# Ignore the data directory
+/model/data  
+
+# Ignore the virtual environment directory
+/env
+/model/env
+/ml

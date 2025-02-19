@@ -1,0 +1,18 @@
+# Web Framework Dependencies
+fastapi
+uvicorn
+streamlit
+
+# Data Processing & ML
+numpy
+pandas
+scikit-learn
+
+# Data Visualization
+plotly
+matplotlib
+
+# Utility Packages
+python-multipart
+pydantic
+pytest
