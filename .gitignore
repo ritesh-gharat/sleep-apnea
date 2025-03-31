@@ -1,7 +1,8 @@
 # Ignore the data directory
-/model/data  
+/model-training/data  
 
 # Ignore the virtual environment directory
+*/env
 /env
 /model/env
 /ml
